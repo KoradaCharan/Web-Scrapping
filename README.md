@@ -1,2 +1,2 @@
-# Web-Scrapping
-Data from various articles in the web is extracted using Beautiful Soup and various analysis is performed on the extracted data.
+# Web Scraping and Text Analysis with Beautiful Soup
+This repository contains a Python script for web scraping using Beautiful Soup and performing text analysis on the extracted data. The script reads URLs from an Excel sheet and extracts the main text content from each URL. Then, the extracted text is cleaned by removing punctuation and stopwords, and several text analysis metrics are computed for each article, including positivity score, negativity score, polarity score, subjectivity score, average word length, and average sentence length, and so on.
